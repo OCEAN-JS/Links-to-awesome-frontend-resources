@@ -1,2 +1,3 @@
-# usefull-stuff
-some helper resources and links about web development
+# Usefull stuff
+
+_Some helper resources and links about web development_
